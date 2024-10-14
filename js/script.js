@@ -1,20 +1,20 @@
 const places = [
   {
-    src: "../images/Rostov-on-Don, Admiral.png",
+    src: "../images/rostov_admiral.png",
     city: "Rostov-on-Don<br>LCD admiral",
     area: "81 m<sup>2</sup>",
     time: "3.5 months",
     cost: "Upon request"
   },
   {
-    src: "../images/Sochi Thieves.png",
+    src: "../images/sochi.png",
     city: "Sochi<br>Thieves",
     area: "105 m<sup>2</sup>",
     time: "4 months",
     cost: "Upon request"
   },
   {
-    src: "../images/Rostov-on-Don Patriotic.png",
+    src: "../images/rostov_patriotic.png",
     city: "Rostov-on-Don<br>Patriotic",
     area: "93 m<sup>2</sup>",
     time: "3 months",
