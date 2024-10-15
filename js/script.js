@@ -1,4 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
   const places = [
   {
     src: "images/rostov_admiral.png",
@@ -22,6 +21,8 @@ document.addEventListener("DOMContentLoaded", () => {
     cost: "Upon request"
   }
 ];
+
+document.addEventListener("DOMContentLoaded", () => {
   const imageElement = document.querySelector('.image');
   let currentIndex = 0;
   let autoChangeInterval;
