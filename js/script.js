@@ -1,21 +1,21 @@
 document.addEventListener("DOMContentLoaded", () => {
   const places = [
   {
-    src: "../images/rostov_admiral.png",
+    src: "images/rostov_admiral.png",
     city: "Rostov-on-Don<br>LCD admiral",
     area: "81 m<sup>2</sup>",
     time: "3.5 months",
     cost: "Upon request"
   },
   {
-    src: "../images/sochi.png",
+    src: "images/sochi.png",
     city: "Sochi<br>Thieves",
     area: "105 m<sup>2</sup>",
     time: "4 months",
     cost: "Upon request"
   },
   {
-    src: "../images/rostov_patriotic.png",
+    src: "images/rostov_patriotic.png",
     city: "Rostov-on-Don<br>Patriotic",
     area: "93 m<sup>2</sup>",
     time: "3 months",
